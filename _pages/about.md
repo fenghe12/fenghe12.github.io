@@ -126,13 +126,7 @@ Multi-agent course video generation pipeline supporting PPT upload or course-top
 # Visitor Map
 
 <div style="display:flex; justify-content:center;">
-<div align="center" style="overflow:hidden; height:260px;">
+<div style="width:380px; height:300px; margin:0 auto;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DkNiAAJ-9iGqz6zmoXI21F8WN91v1pp5RDl2-QO1aFo"></script>
 </div>
-<script>
-setTimeout(function(){
-  var c = document.querySelector('#clstrmaps-frame') || document.querySelector('[id*="clustrmap"] canvas');
-  if(c){ c.parentElement.style.transform='scale(0.55)'; c.parentElement.style.transformOrigin='top center'; }
-}, 2000);
-</script>
 </div>
