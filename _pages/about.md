@@ -137,7 +137,5 @@ Designed and implemented a multi-agent course video generation pipeline for smar
 # Visitor Map
 
 <p align="center">
-  <a href="https://clustrmaps.com/site/1bxv5" title="Visitor Map">
-    <img src="https://clustrmaps.com/map_v2.png?d=YOUR_KEY&cl=ffffff&w=900&t=tt" alt="Visitor map" />
-  </a>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DkNiAAJ-9iGqz6zmoXI21F8WN91v1pp5RDl2-QO1aFo"></script>
 </p>
