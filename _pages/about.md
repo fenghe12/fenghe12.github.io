@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "He Feng"
+excerpt: "Ph.D. Student at Harbin Institute of Technology"
 author_profile: true
 redirect_from:
   - /about/
