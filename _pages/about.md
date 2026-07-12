@@ -75,7 +75,7 @@ I am a direct Ph.D. student in Electronic Information at **Harbin Institute of T
 
 - **CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning**
   **He Feng**, et al. *ACM MM 2026*. **CCF-A · First Author · Accepted**
-  [[Project Page](#)] [[Paper](#)] [[Code](#)]
+  [[Project Page](#)] [[Paper](#)]
 
 </div>
 </div>
