@@ -70,11 +70,11 @@ I am a direct Ph.D. student in Electronic Information at **Harbin Institute of T
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning**
-  **He Feng**, et al. *ACM MM*. **CCF-A · First Author · Under Review**
+  **He Feng**, et al. *ACM MM 2026*. **CCF-A · First Author · Accepted**
   [[Project Page](#)] [[Paper](#)] [[Code](#)]
 
 </div>
