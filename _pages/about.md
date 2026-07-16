@@ -126,5 +126,7 @@ Multi-agent course video generation pipeline supporting PPT upload or course-top
 # Visitor Map
 
 <div style="display:flex; justify-content:center;">
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5m0fenghe1&m=0&c=ff0000&s=220" async="async"></script>
+<div style="width:380px; height:300px; margin:0 auto;">
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DkNiAAJ-9iGqz6zmoXI21F8WN91v1pp5RDl2-QO1aFo"></script>
+</div>
 </div>
