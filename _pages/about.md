@@ -125,8 +125,10 @@ Multi-agent course video generation pipeline supporting PPT upload or course-top
 
 # Visitor Map
 
-<div style="display:flex; justify-content:center;">
-<div style="width:380px; height:300px; margin:0 auto;">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DkNiAAJ-9iGqz6zmoXI21F8WN91v1pp5RDl2-QO1aFo"></script>
+<div style="display:flex; flex-direction:column; align-items:center; gap:12px; margin:24px 0;">
+<div style="font-size:200px; line-height:1;">🌍</div>
+<div style="font-size:15px; color:#555;">
+Thanks to <b><span id="busuanzi_value_site_uv">-</span></b> visitors from <b><span id="busuanzi_value_site_pv">-</span></b>+ views worldwide.
 </div>
 </div>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
