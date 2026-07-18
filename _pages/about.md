@@ -131,4 +131,4 @@ Multi-agent course video generation pipeline supporting PPT upload or course-top
 Thanks to <b><span id="busuanzi_value_site_uv">-</span></b> visitors from <b><span id="busuanzi_value_site_pv">-</span></b>+ views worldwide.
 </div>
 </div>
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script defer src="https://vercount.one/js"></script>
