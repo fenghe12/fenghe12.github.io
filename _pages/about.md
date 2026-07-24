@@ -17,80 +17,48 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a direct Ph.D. student in Electronic Information at **Harbin Institute of Technology (HIT)**, advised by Prof. Tonghua Su. My research focuses on multimodal generation, digital human video generation, and talking-head / portrait animation.
-<a href='https://scholar.google.com/citations?user=_Xik6HkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+# 👋 About me
 
-**Research Interests:**
-- Digital human video generation
-- Talking-head generation and audio-driven portrait animation
-- DiT / diffusion models for video generation
-- Controllable face video generation
-- Large-scale face video dataset construction
-- Agent-based AIGC systems
+- I am a direct Ph.D. student in Electronic Information at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), advised by Prof. [Tonghua Su](http://www.hit.edu.cn/). I expect to graduate in Jun. 2029.
+- I received my Bachelor's Degree in Software Engineering at [Central South University](https://en.csu.edu.cn/) in Jun. 2024.
+- My research interests mainly focus on **digital human video generation**, **talking-head / portrait animation**, **DiT / diffusion models for video generation**, and **large-scale face video dataset construction**.
+- I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
-<span class='anchor' id='education'></span>
+<a href='https://scholar.google.com/citations?user=_Xik6HkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# Education
+# 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Our paper "CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning" has been accepted by [ACM MM 2026]().
+- *2026.05*: &nbsp;🎉🎉 Our paper "DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation" has been accepted by [CVIU 2026]().
+- *2025.07*: &nbsp;🎉🎉 Our paper "DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation" has been accepted by [ICCV 2025]().
+- *2025.05*: &nbsp;🎉🎉 Our paper "DH-OmniFace: A Large-Scale and Multi-Attribute Dataset Suite for Controllable Face Video Generation" is under major revision at [IEEE TMM]().
 
-- *Sep. 2024 – Jun. 2029*, **Harbin Institute of Technology**, Ph.D. Student in Electronic Information, Advisor: Prof. Tonghua Su
-- *Sep. 2020 – Jun. 2024*, **Central South University**, B.Eng. in Software Engineering
+# 📝 Publications
 
-<span class='anchor' id='publications'></span>
+#### 2026
+- ``ACM MM'26`` [CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning](), **He Feng**, et al. (<span style="color:red">CCF-A</span>, **First Author**)
+- ``CVIU'26`` [DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation](), **He Feng**, et al. (<span style="color:red">CCF-B</span>, **First Author**)
 
-# Selected Publications
+#### 2025
+- ``ICCV'25`` [DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation](), et al. (<span style="color:red">CCF-A</span>, **Second Author**)
 
----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+#### Under Review
+- ``TMM`` [DH-OmniFace: A Large-Scale and Multi-Attribute Dataset Suite for Controllable Face Video Generation](), **He Feng**, et al. (<span style="color:red">CCF-A / JCR Q1</span>, **First Author**, Major Revision)
+- ``TPAMI`` [Talking Face Video Generation Survey](), et al. (Contributor)
 
-- **DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation**
-  **He Feng**, et al. *CVIU*, 2026. **CCF-B · First Author**
-  [[Project Page](#)] [[Paper](#)] [[Code](#)]
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- **DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation**
-  *ICCV*, 2025. **CCF-A · Second Author**
-  [[Project Page](#)] [[Paper](#)] [[Dataset](#)]
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- **DH-OmniFace: A Large-Scale and Multi-Attribute Dataset Suite for Controllable Face Video Generation**
-  **He Feng**, et al. *IEEE TMM*. **CCF-A / JCR Q1 · First Author · Major Revision**
-  [[Project Page](#)] [[Paper](#)] [[Dataset](#)]
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- **CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning**
-  **He Feng**, et al. *ACM MM 2026*. **CCF-A · First Author · Accepted**
-  [[Project Page](#)] [[Paper](#)]
-
-</div>
-</div>
-
-- **Talking Face Video Generation Survey**, *TPAMI*. **Contributor · Under Review**
-
-### Patents
-
+### 📜 Patents
 - Two accepted internal invention patents on talking-face generation and digital human foundation models.
 - *Method and System for Automatic Generation of Multilingual Educational Videos Based on Multi-Agent Collaboration* — Accepted.
 - *Multi-language MOOC Teaching Video Automatic Generation System Based on Multi-Agent Collaboration* — Software Copyright.
 
-<span class='anchor' id='experience'></span>
+<span class='anchor' id='educations'></span>
 
-# Industry Experience
+# 🎓 Educations
+- *Sep. 2024 – Jun. 2029*, **Harbin Institute of Technology**, Direct Ph.D. in Electronic Information, Advisor: Prof. Tonghua Su
+- *Sep. 2020 – Jun. 2024*, **Central South University**, B.Eng. in Software Engineering
+
+<span class='anchor' id='internships'></span>
+
+# 💼 Internships
 
 ### Algorithm Intern · Digital Human Group, Li Auto
 **Jul. 2024 – Jan. 2025**
@@ -100,30 +68,36 @@ I am a direct Ph.D. student in Electronic Information at **Harbin Institute of T
 - Built a 1,000+ hour talking-face video database with MLLM-generated captions and multimodal annotations.
 - Supported DH-FaceVid-1K and DH-OmniFace dataset construction.
 
-# Projects
+<span class='anchor' id='projects'></span>
+
+# 🛠️ Projects
 
 ### Digital Human Generation Foundation Model R&D
-**Li Auto-University Joint Program · Jun. 2024 – Jan. 2025**
+**Li Auto – University Joint Program · Jun. 2024 – Jan. 2025**
+
 Technical route design, dataset investigation, model reproduction, and experimental validation for a 2D digital human video generation foundation model.
 
 ### Agent-Based Multilingual MOOC Teaching Video Generation System
 **Jan. 2026 – Mar. 2026**
+
 Multi-agent course video generation pipeline supporting PPT upload or course-topic input, with automatic course structuring, translation verification, voice cloning, digital human generation, video composition, and subtitle export.
 
-<span class='anchor' id='service'></span>
+<span class='anchor' id='honors-and-awards'></span>
 
-# Academic Service
-
+# 🏆 Honors and Awards
 - **Organizer**, ACM Multimedia Asia 2025 Grand Challenge: Multimodal Multiethnic Talking-Head Video Generation.
+
+<span class='anchor' id='academic-services'></span>
+
+# 📚 Academic Services
 - **Reviewer** for TMM, Neurocomputing, Pattern Recognition, Knowledge-Based Systems, Neural Networks, ACM MM, AAAI, NeurIPS, CVPR, ICLR, ICML.
 
-# Skills
+# 🛠️ Skills
+- **Programming:** Python, PyTorch, Linux, Git, Docker, LaTeX
+- **Deep Learning:** training, inference, hyperparameter tuning, experiment management
+- **Languages:** Chinese, English
 
-**Programming:** Python, PyTorch, Linux, Git, Docker, LaTeX
-**Deep Learning:** training, inference, hyperparameter tuning, experiment management
-**Languages:** Chinese, English
-
-# Visitor Map
+# 🌍 Visitor Map
 
 <div style="display:flex; flex-direction:column; align-items:center; gap:12px; margin:24px 0;">
 <div style="font-size:200px; line-height:1;">🌍</div>
