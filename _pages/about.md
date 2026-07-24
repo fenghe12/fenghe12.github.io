@@ -27,19 +27,21 @@ redirect_from:
 <a href='https://scholar.google.com/citations?user=_Xik6HkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 Our paper "CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning" has been accepted by [ACM MM 2026]().
-- *2026.05*: &nbsp;🎉🎉 Our paper "DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation" has been accepted by [CVIU 2026]().
-- *2025.07*: &nbsp;🎉🎉 Our paper "DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation" has been accepted by [ICCV 2025]().
-- *2025.05*: &nbsp;🎉🎉 Our paper "DH-OmniFace: A Large-Scale and Multi-Attribute Dataset Suite for Controllable Face Video Generation" is under major revision at [IEEE TMM]().
+- *2026.07*: &nbsp;🎉🎉 Our paper "CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning" has been accepted by [ACM MM 2026](https://acmmm2026.org/). (<span style="color:red">CCF-A, First Author</span>)
+- *2026.05*: &nbsp;🎉🎉 Our paper "DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation" has been accepted by [CVIU 2026](https://www.sciencedirect.com/j/computer-vision-and-image-understanding). (<span style="color:red">CCF-B, First Author</span>)
+- *2025.10*: &nbsp;🎉🎉 Serving as **Organizer** for ACM Multimedia Asia 2025 Grand Challenge: Multimodal Multiethnic Talking-Head Video Generation.
+- *2025.07*: &nbsp;🎉🎉 Our paper "DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation" has been accepted by [ICCV 2025](https://iccv2025.thecvf.com/). (<span style="color:red">CCF-A, Second Author</span>)
+- *2025.05*: &nbsp;🎉🎉 Our paper "DH-OmniFace" is under major revision at [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046). (<span style="color:red">CCF-A, First Author</span>)
+- *2024.07*: &nbsp;💼 Started Algorithm Internship at **Digital Human Group, Li Auto**.
 
 # 📝 Publications
 
 #### 2026
-- ``ACM MM'26`` [CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning](), **He Feng**, et al. (<span style="color:red">CCF-A</span>, **First Author**)
-- ``CVIU'26`` [DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation](), **He Feng**, et al. (<span style="color:red">CCF-B</span>, **First Author**)
+- ``ACM MM'26`` [CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning](https://arxiv.org/abs/2605.28056), **He Feng**, Yongjia Ma, Di Di, Linze Fan, Tonghua Su. (<span style="color:red">CCF-A</span>, **First Author**)
+- ``CVIU'26`` [DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation](https://arxiv.org/abs/2508.06511), **He Feng**, et al. (<span style="color:red">CCF-B</span>, **First Author**) [ [Code](https://github.com/fenghe12/DiTalker-CVIU) ]
 
 #### 2025
-- ``ICCV'25`` [DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation](), et al. (<span style="color:red">CCF-A</span>, **Second Author**)
+- ``ICCV'25`` [DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation](https://arxiv.org/abs/2410.07151), Di Di, **He Feng**, et al. (<span style="color:red">CCF-A</span>, **Second Author**) [ [Project](https://luna-ai-lab.github.io/DH-FaceVid-1K/) ] [ [Code](https://github.com/luna-ai-lab/DH-FaceVid-1K) ]
 
 #### Under Review
 - ``TMM`` [DH-OmniFace: A Large-Scale and Multi-Attribute Dataset Suite for Controllable Face Video Generation](), **He Feng**, et al. (<span style="color:red">CCF-A / JCR Q1</span>, **First Author**, Major Revision)
