@@ -21,17 +21,18 @@ redirect_from:
 
 - I am a direct Ph.D. student in Electronic Information at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), advised by Prof. [Tonghua Su](http://www.hit.edu.cn/). I expect to graduate in Jun. 2029.
 - I received my Bachelor's Degree in Software Engineering at [Central South University](https://en.csu.edu.cn/) in Jun. 2024.
-- My research interests mainly focus on **digital human video generation**, **talking-head / portrait animation**, **DiT / diffusion models for video generation**, and **large-scale face video dataset construction**.
+- My research focuses on **multimodal video generation and evaluation**. My [current work](#current-research) spans **controllable digital human and portrait animation**, **diagnostic evaluation of cartoon talking portraits**, and **physical plausibility in human-object interaction videos**.
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 <a href='https://scholar.google.com/citations?user=_Xik6HkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+- *2026.10*: &nbsp;🏅 Selected for the **National Scholarship for Doctoral Students** at Harbin Institute of Technology.
 - *2026.09*: &nbsp;🎉🎉 Our paper "DH-OmniFace" has been accepted with mandatory minor revisions by [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046). (<span style="color:red">CCF-A, First Author</span>)
 - *2026.07*: &nbsp;🎉🎉 Our paper "CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning" has been accepted by [ACM MM 2026](https://acmmm2026.org/). (<span style="color:red">CCF-A, First Author</span>)
-- *2026.06*: &nbsp;🎉🎉 Our paper "DiTalker: A unified DiT-based framework for high-quality and style-controllable portrait animation" was published in [Computer Vision and Image Understanding](https://doi.org/10.1016/j.cviu.2026.104819). (<span style="color:red">CCF-B, First Author</span>)
-- *2025.10*: &nbsp;🎉🎉 Serving as **Organizer** for ACM Multimedia Asia 2025 Grand Challenge: Multimodal Multiethnic Talking-Head Video Generation.
-- *2025.07*: &nbsp;🎉🎉 Our paper "DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation" has been accepted by [ICCV 2025](https://iccv2025.thecvf.com/). (<span style="color:red">CCF-A, Second Author</span>)
+- *2026.05*: &nbsp;🎉🎉 Our paper "DiTalker: A unified DiT-based framework for high-quality and style-controllable portrait animation" was accepted by [Computer Vision and Image Understanding](https://doi.org/10.1016/j.cviu.2026.104819). (<span style="color:red">CCF-B, First Author</span>)
+- *2025.12*: &nbsp;🎉🎉 Served as an **organizer** for the ACM Multimedia Asia 2025 Grand Challenge on [Multimodal Multiethnic Talking-Head Video Generation](https://mmasia2025.org/multimodal_multiethnic).
+- *2025.06*: &nbsp;🎉🎉 Our paper "DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation" has been accepted by [ICCV 2025](https://iccv2025.thecvf.com/). (<span style="color:red">CCF-A, Second Author</span>)
 - *2024.07*: &nbsp;💼 Started Algorithm Internship at **Digital Human Group, Li Auto**.
 
 <span class='anchor' id='publications'></span>
@@ -159,6 +160,7 @@ Multi-agent course video generation pipeline supporting PPT upload or course-top
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🏆 Honors and Awards
+- **National Scholarship for Doctoral Students**, Harbin Institute of Technology, 2026.
 - **Organizer**, ACM Multimedia Asia 2025 Grand Challenge: Multimodal Multiethnic Talking-Head Video Generation.
 
 <span class='anchor' id='academic-services'></span>
