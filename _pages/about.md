@@ -139,10 +139,10 @@ redirect_from:
 # 💼 Internships
 
 ### Algorithm Intern · Advanced Computing Research Group
-**[Spring Research Institute, China Electronics Corporation](https://www.cec.com.cn/2106.html) · Sep. 2026 – Present**
+**[Spring Research Institute, China Electronics Corporation](https://www.cec.com.cn/2106.html) · Sep. 2026 – Present · Shenzhen, China**
 
 ### Algorithm Intern · Digital Human Group, Li Auto
-**Jul. 2024 – Jan. 2025**
+**Jul. 2024 – Jan. 2025 · Beijing, China**
 
 - Reproduced and evaluated 20+ talking-face generation models (SadTalker, AniPortrait, EMO, MuseV, VASA-1, MODA).
 - Developed and evaluated OpenSora-Plan-based talking-face foundation models at 1B/3B/5B scales.
