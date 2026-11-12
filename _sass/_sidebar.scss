@@ -253,6 +253,19 @@
   }
 }
 
+.author__email {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.author__email-mobile {
+  margin: .5rem 0 0;
+
+  @include breakpoint($large) {
+    display: none;
+  }
+}
+
 .author__urls_sm{
   padding: .25em;
   font-size: 1.75em;

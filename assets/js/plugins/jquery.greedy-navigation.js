@@ -69,4 +69,9 @@ $btn.on('click', function() {
   $(this).toggleClass('close');
 });
 
+$hlinks.on('click', 'a', function() {
+  $hlinks.addClass('hidden');
+  $btn.removeClass('close');
+});
+
 updateNav();

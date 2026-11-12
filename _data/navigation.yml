@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Education"
-    url: "/#education"
+    url: "/#educations"
 
   - title: "Publications"
     url: "/#publications"
@@ -13,4 +13,4 @@ main:
     url: "/#experience"
 
   - title: "Service"
-    url: "/#service"
+    url: "/#academic-services"

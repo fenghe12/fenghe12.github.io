@@ -89,13 +89,18 @@
 }
 
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
+h1:before {
     content: ''; 
     display: block; 
     position: relative; 
     width: 0; 
     height: $scroll_offset; 
     margin-top: -$scroll_offset;
+}
+
+.anchor {
+    display: block;
+    scroll-margin-top: 4rem;
 }
 
 .badge {

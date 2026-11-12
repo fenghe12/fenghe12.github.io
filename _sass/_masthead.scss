@@ -33,6 +33,18 @@
   }
 }
 
+#site-nav {
+  a:focus:not(:focus-visible) {
+    outline: none;
+  }
+
+  a:focus-visible,
+  button:focus-visible {
+    outline: 2px solid $link-color;
+    outline-offset: 2px;
+  }
+}
+
 .masthead__menu {
 
   ul {
