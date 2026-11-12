@@ -21,7 +21,7 @@ redirect_from:
 
 - I am a direct Ph.D. student in Electronic Information at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), advised by Prof. [Tonghua Su](http://www.hit.edu.cn/). I expect to graduate in Jun. 2029.
 - I received my Bachelor's Degree in Software Engineering at [Central South University](https://en.csu.edu.cn/) in Jun. 2024.
-- My research focuses on **multimodal video generation and evaluation**. My [current work](#current-research) spans **controllable digital human and portrait animation**, **diagnostic evaluation of cartoon talking portraits**, and **physical plausibility in human-object interaction videos**.
+- My [current research](#current-research) focuses on **multi-agent systems (MAS)**, **agent memory**, **recursive self-improvement (RSI)**, and **physiologically plausible digital human video generation**.
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 <a href='https://scholar.google.com/citations?user=_Xik6HkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -89,7 +89,7 @@ redirect_from:
       <h3>DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation</h3>
       <p>Donglin Di, <strong>He Feng</strong>, Wenzhang Sun, Yongjia Ma, Hao Li, Wei Chen, Lei Fan, Tonghua Su, Xun Yang</p>
       <p class="publication-venue">ICCV 2025 · CCF-A</p>
-      <p class="publication-links"><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Di_DH-FaceVid-1K_A_Large-Scale_High-Quality_Dataset_for_Face_Video_Generation_ICCV_2025_paper.html">Paper</a><a href="https://luna-ai-lab.github.io/DH-FaceVid-1K/">Project</a><a href="https://github.com/luna-ai-lab/DH-FaceVid-1K">Code</a></p>
+      <p class="publication-links"><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Di_DH-FaceVid-1K_A_Large-Scale_High-Quality_Dataset_for_Face_Video_Generation_ICCV_2025_paper.html">Paper</a><a href="https://luna-ai-lab.github.io/DH-FaceVid-1K/">Project</a><a href="https://github.com/luna-ai-lab/DH-FaceVid-1K">Code</a><a href="https://huggingface.co/datasets/jjuik2014/DH-FaceVid-1K">Data</a></p>
     </div>
   </article>
 </div>
@@ -100,6 +100,7 @@ redirect_from:
   <article class="publication-entry publication-entry--overview" id="tooneval">
     <div>
       <h3>ToonEval: A Diagnostic Benchmark for Cartoon Talking Portraits</h3>
+      <p><strong>He Feng</strong><sup>*</sup>, Xiangyang Shi<sup>*</sup>, Yongjia Ma, Kun Wang, Haoxuan Ge, Ran Li, Tonghua Su <small>(* Equal contribution)</small></p>
       <p>ToonEval evaluates character design, rendering style, part depiction, temporal stability, and motion fidelity in generated cartoon talking portraits.</p>
     </div>
     <a class="publication-figure" href="{{ '/images/publications/tooneval-overview.webp' | relative_url }}">
@@ -109,6 +110,7 @@ redirect_from:
   <article class="publication-entry publication-entry--overview" id="phyhoi-bench">
     <div>
       <h3>PhyHOI-Bench: Diagnosing Physical Plausibility in Third-Person Human-Object Interaction Video Generation</h3>
+      <p><strong>He Feng</strong> et al.</p>
       <p>PhyHOI-Bench uses causal annotations to identify where generated human-object interactions depart from physically plausible behavior.</p>
     </div>
     <a class="publication-figure" href="{{ '/images/publications/phyhoi-bench.webp' | relative_url }}">
@@ -132,8 +134,12 @@ redirect_from:
 - *Sep. 2020 – Jun. 2024*, **Central South University**, B.Eng. in Software Engineering
 
 <span class='anchor' id='internships'></span>
+<span class='anchor' id='experience'></span>
 
 # 💼 Internships
+
+### Algorithm Intern · Advanced Computing Research Group
+**[中国电子春天研究院](https://www.cec.com.cn/2106.html) · Sep. 2026 – Present**
 
 ### Algorithm Intern · Digital Human Group, Li Auto
 **Jul. 2024 – Jan. 2025**
@@ -166,11 +172,12 @@ Multi-agent course video generation pipeline supporting PPT upload or course-top
 <span class='anchor' id='academic-services'></span>
 
 # 📚 Academic Services
-- **Reviewer** for TMM, Neurocomputing, Pattern Recognition, Knowledge-Based Systems, Neural Networks, ACM MM, AAAI, NeurIPS, CVPR, ICLR, ICML.
+- **Journal reviewer:** IEEE Transactions on Multimedia (TMM), Neurocomputing, Pattern Recognition, Knowledge-Based Systems, Neural Networks, and Chinese Journal of Computers (计算机学报).
+- **Conference reviewer:** ACM Multimedia (ACM MM), AAAI, NeurIPS, CVPR, ICLR, ICML, ICASSP, ICME, and the International Conference on Multimedia Modeling (MMM).
 
 # 🛠️ Skills
 - **Programming:** Python, PyTorch, Linux, Git, Docker, LaTeX
-- **Deep Learning:** training, inference, hyperparameter tuning, experiment management
+- **Research methods:** diffusion transformers, vision-language models, and benchmark design for video generation
 - **Languages:** Chinese, English
 
 # 🌍 Visitor Map
