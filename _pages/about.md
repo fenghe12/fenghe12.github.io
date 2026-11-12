@@ -21,7 +21,7 @@ redirect_from:
 
 - I am a direct Ph.D. student in Electronic Information at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), advised by Prof. [Tonghua Su](http://www.hit.edu.cn/). I expect to graduate in Jun. 2029.
 - I received my Bachelor's Degree in Software Engineering at [Central South University](https://en.csu.edu.cn/) in Jun. 2024.
-- My [current research](#current-research) focuses on **multi-agent systems (MAS)**, **agent memory**, **recursive self-improvement (RSI)**, and **physiologically plausible digital human video generation**.
+- My [research](#current-research) focuses on **agent memory** and **recursive self-improvement (RSI)** in **multi-agent systems (MAS)**. I also work on generating **digital human videos with physiologically plausible motion**.
 - I am actively **seeking research discussion and collaboration opportunities**, so feel free to contact me!
 
 <a href='https://scholar.google.com/citations?user=_Xik6HkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
