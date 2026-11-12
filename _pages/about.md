@@ -34,6 +34,7 @@ redirect_from:
 - *2025.12*: &nbsp;🎉🎉 Served as an **organizer** for the ACM Multimedia Asia 2025 Grand Challenge on [Multimodal Multiethnic Talking-Head Video Generation](https://mmasia2025.org/multimodal_multiethnic).
 - *2025.06*: &nbsp;🎉🎉 Our paper "DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation" has been accepted by [ICCV 2025](https://iccv2025.thecvf.com/). (<span style="color:red">CCF-A, Second Author</span>)
 - *2024.07*: &nbsp;💼 Started Algorithm Internship at **Digital Human Group, Li Auto**.
+- *2024.06*: &nbsp;🎓 Received my **Bachelor of Engineering in Software Engineering** from [Central South University](https://en.csu.edu.cn/).
 
 <span class='anchor' id='publications'></span>
 
