@@ -27,24 +27,96 @@ redirect_from:
 <a href='https://scholar.google.com/citations?user=_Xik6HkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Our paper "DH-OmniFace" has been accepted with mandatory minor revisions by [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046). (<span style="color:red">CCF-A, First Author</span>)
 - *2026.07*: &nbsp;🎉🎉 Our paper "CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning" has been accepted by [ACM MM 2026](https://acmmm2026.org/). (<span style="color:red">CCF-A, First Author</span>)
-- *2026.05*: &nbsp;🎉🎉 Our paper "DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation" has been accepted by [CVIU 2026](https://www.sciencedirect.com/j/computer-vision-and-image-understanding). (<span style="color:red">CCF-B, First Author</span>)
+- *2026.06*: &nbsp;🎉🎉 Our paper "DiTalker: A unified DiT-based framework for high-quality and style-controllable portrait animation" was published in [Computer Vision and Image Understanding](https://doi.org/10.1016/j.cviu.2026.104819). (<span style="color:red">CCF-B, First Author</span>)
 - *2025.10*: &nbsp;🎉🎉 Serving as **Organizer** for ACM Multimedia Asia 2025 Grand Challenge: Multimodal Multiethnic Talking-Head Video Generation.
 - *2025.07*: &nbsp;🎉🎉 Our paper "DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation" has been accepted by [ICCV 2025](https://iccv2025.thecvf.com/). (<span style="color:red">CCF-A, Second Author</span>)
-- *2025.05*: &nbsp;🎉🎉 Our paper "DH-OmniFace" is under major revision at [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046). (<span style="color:red">CCF-A, First Author</span>)
 - *2024.07*: &nbsp;💼 Started Algorithm Internship at **Digital Human Group, Li Auto**.
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
 #### 2026
-- ``ACM MM'26`` [CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning](https://arxiv.org/abs/2605.28056), **He Feng**, Yongjia Ma, Di Di, Linze Fan, Tonghua Su. (<span style="color:red">CCF-A</span>, **First Author**)
-- ``CVIU'26`` [DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation](https://arxiv.org/abs/2508.06511), **He Feng**, et al. (<span style="color:red">CCF-B</span>, **First Author**) [ [Code](https://github.com/fenghe12/DiTalker-CVIU) ]
+
+<div class="publication-list" markdown="0">
+  <article class="publication-entry" id="cogportrait">
+    <a class="publication-figure" href="{{ '/images/publications/cogportrait.webp' | relative_url }}">
+      <img src="{{ '/images/publications/cogportrait.webp' | relative_url }}" width="1800" height="467" alt="CogPortrait overview of fine-grained eye motion control in portrait animation" loading="lazy" decoding="async">
+    </a>
+    <div>
+      <h3>CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning</h3>
+      <p><strong>He Feng</strong>, Yongjia Ma, Donglin Di, Lei Fan, Tonghua Su</p>
+      <p class="publication-venue">ACM Multimedia 2026 · CCF-A</p>
+      <p class="publication-links"><a href="https://arxiv.org/abs/2605.28056">arXiv</a><a href="https://fenghe12.github.io/cogportrait-io/">Project</a></p>
+    </div>
+  </article>
+  <article class="publication-entry" id="ditalker">
+    <a class="publication-figure" href="{{ '/images/publications/ditalker.webp' | relative_url }}">
+      <img src="{{ '/images/publications/ditalker.webp' | relative_url }}" width="1057" height="720" alt="DiTalker examples showing how a reference portrait, audio, and speaking style guide the output" loading="lazy" decoding="async">
+    </a>
+    <div>
+      <h3>DiTalker: A unified DiT-based framework for high-quality and style-controllable portrait animation</h3>
+      <p><strong>He Feng</strong>, Yongjia Ma, Lei Fan, Donglin Di, Tonghua Su</p>
+      <p class="publication-venue">Computer Vision and Image Understanding, 2026 · CCF-B</p>
+      <p class="publication-links"><a href="https://doi.org/10.1016/j.cviu.2026.104819">Paper</a><a href="https://arxiv.org/abs/2508.06511">arXiv</a><a href="https://github.com/fenghe12/DiTalker-CVIU">Code</a></p>
+    </div>
+  </article>
+  <article class="publication-entry" id="dh-omniface">
+    <a class="publication-figure" href="{{ '/images/publications/dh-omniface.webp' | relative_url }}">
+      <img src="{{ '/images/publications/dh-omniface.webp' | relative_url }}" width="2000" height="1015" alt="DH-OmniFace dataset overview with face and full-body subsets and the FACET benchmark" loading="lazy" decoding="async">
+    </a>
+    <div>
+      <h3>DH-OmniFace: A Large-Scale and Multi-Attribute Dataset Suite for Controllable Face Video Generation</h3>
+      <p><strong>He Feng</strong> et al.</p>
+      <p class="publication-venue">IEEE Transactions on Multimedia · CCF-A</p>
+      <p>Accepted with mandatory minor revisions (AQ)</p>
+      <p class="publication-links"><a href="https://fenghe12.github.io/DH-OmniFace/">Project</a></p>
+    </div>
+  </article>
+</div>
 
 #### 2025
-- ``ICCV'25`` [DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation](https://arxiv.org/abs/2410.07151), Di Di, **He Feng**, et al. (<span style="color:red">CCF-A</span>, **Second Author**) [ [Project](https://luna-ai-lab.github.io/DH-FaceVid-1K/) ] [ [Code](https://github.com/luna-ai-lab/DH-FaceVid-1K) ]
+
+<div class="publication-list" markdown="0">
+  <article class="publication-entry" id="dh-facevid-1k">
+    <a class="publication-figure" href="{{ '/images/publications/dh-facevid-1k.webp' | relative_url }}">
+      <img src="{{ '/images/publications/dh-facevid-1k.webp' | relative_url }}" width="1039" height="287" alt="DH-FaceVid-1K samples with accompanying audio and text annotations" loading="lazy" decoding="async">
+    </a>
+    <div>
+      <h3>DH-FaceVid-1K: A Large-Scale High-Quality Dataset for Face Video Generation</h3>
+      <p>Donglin Di, <strong>He Feng</strong>, Wenzhang Sun, Yongjia Ma, Hao Li, Wei Chen, Lei Fan, Tonghua Su, Xun Yang</p>
+      <p class="publication-venue">ICCV 2025 · CCF-A</p>
+      <p class="publication-links"><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Di_DH-FaceVid-1K_A_Large-Scale_High-Quality_Dataset_for_Face_Video_Generation_ICCV_2025_paper.html">Paper</a><a href="https://luna-ai-lab.github.io/DH-FaceVid-1K/">Project</a><a href="https://github.com/luna-ai-lab/DH-FaceVid-1K">Code</a></p>
+    </div>
+  </article>
+</div>
+
+#### Current Research
+
+<div class="publication-list" markdown="0">
+  <article class="publication-entry" id="tooneval">
+    <a class="publication-figure" href="{{ '/images/publications/tooneval.webp' | relative_url }}">
+      <img src="{{ '/images/publications/tooneval.webp' | relative_url }}" width="1800" height="1340" alt="ToonEval examples of generation errors in cartoon talking portraits" loading="lazy" decoding="async">
+    </a>
+    <div>
+      <h3>ToonEval: A Diagnostic Benchmark for Cartoon Talking Portraits</h3>
+      <p>ToonEval evaluates character design, rendering style, part depiction, temporal stability, and motion fidelity in generated cartoon talking portraits.</p>
+    </div>
+  </article>
+  <article class="publication-entry" id="phyhoi-bench">
+    <a class="publication-figure" href="{{ '/images/publications/phyhoi-bench.webp' | relative_url }}">
+      <img src="{{ '/images/publications/phyhoi-bench.webp' | relative_url }}" width="2400" height="717" alt="PhyHOI-Bench overview of causal annotations and physical plausibility evaluation" loading="lazy" decoding="async">
+    </a>
+    <div>
+      <h3>PhyHOI-Bench: Diagnosing Physical Plausibility in Third-Person Human-Object Interaction Video Generation</h3>
+      <p>PhyHOI-Bench uses causal annotations to identify where generated human-object interactions depart from physically plausible behavior.</p>
+    </div>
+  </article>
+</div>
 
 #### Under Review
-- ``TMM`` [DH-OmniFace: A Large-Scale and Multi-Attribute Dataset Suite for Controllable Face Video Generation](), **He Feng**, et al. (<span style="color:red">CCF-A / JCR Q1</span>, **First Author**, Major Revision)
 - ``TPAMI`` [Talking Face Video Generation Survey](), et al. (Contributor)
 
 ### 📜 Patents
