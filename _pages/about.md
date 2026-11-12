@@ -139,7 +139,7 @@ redirect_from:
 # 💼 Internships
 
 ### Algorithm Intern · Advanced Computing Research Group
-**[中国电子春天研究院](https://www.cec.com.cn/2106.html) · Sep. 2026 – Present**
+**[Spring Research Institute, China Electronics Corporation](https://www.cec.com.cn/2106.html) · Sep. 2026 – Present**
 
 ### Algorithm Intern · Digital Human Group, Li Auto
 **Jul. 2024 – Jan. 2025**
