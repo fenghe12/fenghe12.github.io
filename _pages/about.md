@@ -96,23 +96,23 @@ redirect_from:
 #### Current Research
 
 <div class="publication-list" markdown="0">
-  <article class="publication-entry" id="tooneval">
-    <a class="publication-figure" href="{{ '/images/publications/tooneval-overview.webp' | relative_url }}">
-      <img src="{{ '/images/publications/tooneval-overview.webp' | relative_url }}" width="2400" height="788" alt="ToonEval benchmark overview with cartoon styles and structured ground-truth annotations" loading="lazy" decoding="async">
-    </a>
+  <article class="publication-entry publication-entry--overview" id="tooneval">
     <div>
       <h3>ToonEval: A Diagnostic Benchmark for Cartoon Talking Portraits</h3>
       <p>ToonEval evaluates character design, rendering style, part depiction, temporal stability, and motion fidelity in generated cartoon talking portraits.</p>
     </div>
-  </article>
-  <article class="publication-entry" id="phyhoi-bench">
-    <a class="publication-figure" href="{{ '/images/publications/phyhoi-bench.webp' | relative_url }}">
-      <img src="{{ '/images/publications/phyhoi-bench.webp' | relative_url }}" width="2400" height="717" alt="PhyHOI-Bench overview of causal annotations and physical plausibility evaluation" loading="lazy" decoding="async">
+    <a class="publication-figure" href="{{ '/images/publications/tooneval-overview.webp' | relative_url }}">
+      <img src="{{ '/images/publications/tooneval-overview.webp' | relative_url }}" width="2400" height="788" alt="ToonEval benchmark overview with cartoon styles and structured ground-truth annotations" loading="lazy" decoding="async">
     </a>
+  </article>
+  <article class="publication-entry publication-entry--overview" id="phyhoi-bench">
     <div>
       <h3>PhyHOI-Bench: Diagnosing Physical Plausibility in Third-Person Human-Object Interaction Video Generation</h3>
       <p>PhyHOI-Bench uses causal annotations to identify where generated human-object interactions depart from physically plausible behavior.</p>
     </div>
+    <a class="publication-figure" href="{{ '/images/publications/phyhoi-bench.webp' | relative_url }}">
+      <img src="{{ '/images/publications/phyhoi-bench.webp' | relative_url }}" width="2400" height="717" alt="PhyHOI-Bench overview of causal annotations and physical plausibility evaluation" loading="lazy" decoding="async">
+    </a>
   </article>
 </div>
 

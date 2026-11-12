@@ -7,6 +7,11 @@
   border-bottom: 1px solid $border-color;
 }
 
+.publication-entry--overview {
+  grid-template-columns: minmax(0, 1fr);
+  gap: .75rem;
+}
+
 .publication-entry h3 {
   margin: 0 0 .35rem;
   font-size: 1rem;
