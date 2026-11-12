@@ -42,8 +42,8 @@ redirect_from:
 
 <div class="publication-list" markdown="0">
   <article class="publication-entry" id="cogportrait">
-    <a class="publication-figure" href="{{ '/images/publications/cogportrait.webp' | relative_url }}">
-      <img src="{{ '/images/publications/cogportrait.webp' | relative_url }}" width="1800" height="467" alt="CogPortrait overview of fine-grained eye motion control in portrait animation" loading="lazy" decoding="async">
+    <a class="publication-figure" href="{{ '/images/publications/cogportrait-framework.webp' | relative_url }}">
+      <img src="{{ '/images/publications/cogportrait-framework.webp' | relative_url }}" width="2100" height="870" alt="CogPortrait framework for facial keypoint planning and keypoint-guided video generation" loading="lazy" decoding="async">
     </a>
     <div>
       <h3>CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning</h3>
@@ -53,8 +53,8 @@ redirect_from:
     </div>
   </article>
   <article class="publication-entry" id="ditalker">
-    <a class="publication-figure" href="{{ '/images/publications/ditalker.webp' | relative_url }}">
-      <img src="{{ '/images/publications/ditalker.webp' | relative_url }}" width="1057" height="720" alt="DiTalker examples showing how a reference portrait, audio, and speaking style guide the output" loading="lazy" decoding="async">
+    <a class="publication-figure" href="{{ '/images/publications/ditalker-framework.webp' | relative_url }}">
+      <img src="{{ '/images/publications/ditalker-framework.webp' | relative_url }}" width="2001" height="790" alt="DiTalker training and inference framework with style-expression encoding and audio-style fusion" loading="lazy" decoding="async">
     </a>
     <div>
       <h3>DiTalker: A unified DiT-based framework for high-quality and style-controllable portrait animation</h3>
@@ -97,8 +97,8 @@ redirect_from:
 
 <div class="publication-list" markdown="0">
   <article class="publication-entry" id="tooneval">
-    <a class="publication-figure" href="{{ '/images/publications/tooneval.webp' | relative_url }}">
-      <img src="{{ '/images/publications/tooneval.webp' | relative_url }}" width="1800" height="1340" alt="ToonEval examples of generation errors in cartoon talking portraits" loading="lazy" decoding="async">
+    <a class="publication-figure" href="{{ '/images/publications/tooneval-overview.webp' | relative_url }}">
+      <img src="{{ '/images/publications/tooneval-overview.webp' | relative_url }}" width="2400" height="788" alt="ToonEval benchmark overview with cartoon styles and structured ground-truth annotations" loading="lazy" decoding="async">
     </a>
     <div>
       <h3>ToonEval: A Diagnostic Benchmark for Cartoon Talking Portraits</h3>
