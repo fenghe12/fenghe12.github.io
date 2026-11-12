@@ -180,25 +180,7 @@ Multi-agent course video generation pipeline supporting PPT upload or course-top
 - **Research methods:** diffusion transformers, vision-language models, and benchmark design for video generation
 - **Languages:** Chinese, English
 
-# 🌍 Visitor Map
+# Visitor Statistics
 
-<div style="display:flex; flex-direction:column; align-items:center; gap:12px; margin:24px 0;">
-<div style="font-size:200px; line-height:1;">🌍</div>
-<div style="font-size:15px; color:#555;">
-Thanks to <b><span id="busuanzi_value_site_uv">-</span></b> visitors from <b><span id="busuanzi_value_site_pv">-</span></b>+ views worldwide.
-</div>
-</div>
-<script>
-(function(){
-  fetch('https://events.vercount.one/api/v2/log?url=' + encodeURIComponent(location.origin + '/'), {method:'GET'})
-    .then(function(r){return r.json();})
-    .then(function(d){
-      if(d && d.data){
-        var uv=document.getElementById('busuanzi_value_site_uv');
-        var pv=document.getElementById('busuanzi_value_site_pv');
-        if(uv) uv.textContent=d.data.site_uv;
-        if(pv) pv.textContent=d.data.site_pv;
-      }
-    }).catch(function(){});
-})();
-</script>
+<p><strong id="vercount_value_site_uv">—</strong> unique visitors · <strong id="vercount_value_site_pv">—</strong> page views</p>
+<script defer src="https://events.vercount.one/js"></script>
