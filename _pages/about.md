@@ -110,7 +110,7 @@ redirect_from:
   <article class="publication-entry publication-entry--overview" id="phyhoi-bench">
     <div>
       <h3>PhyHOI-Bench: Diagnosing Physical Plausibility in Third-Person Human-Object Interaction Video Generation</h3>
-      <p><strong>He Feng</strong> et al.</p>
+      <p><strong>He Feng</strong> (First Author)</p>
       <p>PhyHOI-Bench uses causal annotations to identify where generated human-object interactions depart from physically plausible behavior.</p>
     </div>
     <a class="publication-figure" href="{{ '/images/publications/phyhoi-bench.webp' | relative_url }}">
