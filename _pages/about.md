@@ -183,4 +183,5 @@ Multi-agent course video generation pipeline supporting PPT upload or course-top
 # Visitor Statistics
 
 <p><strong id="vercount_value_site_uv">—</strong> unique visitors · <strong id="vercount_value_site_pv">—</strong> page views</p>
+<iframe title="Map of recent visitor locations" src="{{ '/assets/visitor-map.html' | relative_url }}" width="560" height="280" style="display: block; width: 100%; max-width: 560px; height: auto; aspect-ratio: 2 / 1; border: 0;" sandbox="allow-scripts allow-popups allow-popups-to-escape-sandbox" referrerpolicy="origin"></iframe>
 <script defer src="https://events.vercount.one/js"></script>

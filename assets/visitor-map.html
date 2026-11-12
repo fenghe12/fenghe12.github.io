@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline' https://waust.at https://whos.amung.us; img-src https://widgets.amung.us; style-src 'unsafe-inline' https://cdnjs.cloudflare.com; base-uri 'none'; form-action 'none'">
+  <title>Map of recent visitor locations</title>
+  <style>
+    body { margin: 0; overflow: hidden; }
+    #map { position: relative; width: 560px; height: 280px; transform-origin: top left; }
+    #map > span { margin-right: 0 !important; }
+  </style>
+</head>
+<body>
+  <div id="map">
+    <script id="_waugeo">
+      var _wau = [["map", "h1u095gxw4", "geo", "560", "280", "natural", "default-red"]];
+      var _wau_opt = { target: "_blank" };
+
+      const map = document.getElementById("map");
+      const scaleMap = () => {
+        map.style.transform = `scale(${document.documentElement.clientWidth / 560})`;
+      };
+      scaleMap();
+      window.addEventListener("resize", scaleMap);
+    </script>
+  </div>
+  <script defer src="https://waust.at/m.js"></script>
+</body>
+</html>
