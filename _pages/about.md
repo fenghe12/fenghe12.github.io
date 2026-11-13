@@ -173,8 +173,8 @@ Multi-agent course video generation pipeline supporting PPT upload or course-top
 <span class='anchor' id='academic-services'></span>
 
 # 📚 Academic Services
-- **Journal reviewer:** IEEE Transactions on Multimedia (TMM), Neurocomputing, Pattern Recognition, Knowledge-Based Systems, Neural Networks, and Chinese Journal of Computers (计算机学报).
-- **Conference reviewer:** ACM Multimedia (ACM MM), AAAI, NeurIPS, CVPR, ICLR, ICML, ICASSP, ICME, and the International Conference on Multimedia Modeling (MMM).
+- **Journal reviewer:** IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Neurocomputing, Pattern Recognition, Knowledge-Based Systems, Neural Networks, Engineering Applications of Artificial Intelligence (EAAI), Expert Systems with Applications (ESWA), and Chinese Journal of Computers (计算机学报).
+- **Conference reviewer:** ACM Multimedia (ACM MM), AAAI, NeurIPS, CVPR, ICLR, ICML, ICASSP, ICME, WACV, and the International Conference on Multimedia Modeling (MMM).
 
 # 🛠️ Skills
 - **Programming:** Python, PyTorch, Linux, Git, Docker, LaTeX
